@@ -10,6 +10,7 @@ A collection of Leetcode problems solved by me, with solutions implemented in C+
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kranti-Pa/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kranti-Pa/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Kranti-Pa/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Kranti-Pa/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of Leetcode problems solved by me, with solutions implemented in C+
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kranti-Pa/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kranti-Pa/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Kranti-Pa/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Kranti-Pa/LeetCode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
