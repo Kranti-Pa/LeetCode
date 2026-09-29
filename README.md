@@ -11,10 +11,12 @@ A collection of Leetcode problems solved by me, with solutions implemented in C+
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kranti-Pa/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Kranti-Pa/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kranti-Pa/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Kranti-Pa/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kranti-Pa/LeetCode/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Kranti-Pa/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,8 +24,17 @@ A collection of Leetcode problems solved by me, with solutions implemented in C+
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kranti-Pa/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Kranti-Pa/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kranti-Pa/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Kranti-Pa/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Kranti-Pa/LeetCode/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Kranti-Pa/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Kranti-Pa/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
