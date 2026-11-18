@@ -12,6 +12,7 @@ A collection of Leetcode problems solved by me, with solutions implemented in C+
 | [0189-rotate-array](https://github.com/Kranti-Pa/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kranti-Pa/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kranti-Pa/LeetCode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Kranti-Pa/LeetCode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Kranti-Pa/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Kranti-Pa/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -47,4 +48,20 @@ A collection of Leetcode problems solved by me, with solutions implemented in C+
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kranti-Pa/LeetCode/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Kranti-Pa/LeetCode/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Kranti-Pa/LeetCode/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Kranti-Pa/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Kranti-Pa/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
