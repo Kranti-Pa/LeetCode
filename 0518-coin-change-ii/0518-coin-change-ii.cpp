@@ -1,6 +1,7 @@
 class Solution {
 public:
     int func(int i,int amount,vector<int>& coins,vector<vector<int>>& dp){
+        //Memoization
         if(amount==0)return 1;
         if(i==0)return 0;
         if(dp[i][amount]!=-1)return dp[i][amount];
