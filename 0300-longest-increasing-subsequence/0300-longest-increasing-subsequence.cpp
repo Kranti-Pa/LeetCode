@@ -18,19 +18,19 @@ public:
     // }
 
 //TABULATION APPROACH - T.C=O(n²) S.C=0(N)
-//     int lengthOfLIS(vector<int>& nums){
-//         int n=nums.size();
-//         vector<int> dp(n,1);//Initially everyone assigned with length 1
-//         int mx=1;
-//         for(int i=0;i<n;i++){
-//             for(int prev=0;prev<i;prev++){
-//                 if(nums[prev]<nums[i])
-//                   dp[i]=max(dp[i],1+dp[prev]);
-//             }
-//             mx=max(mx,dp[i]);
-//         }
-//         return mx;
-//     }
+    // int lengthOfLIS(vector<int>& nums){
+    //     int n=nums.size();
+    //     vector<int> dp(n,1);//Initially everyone assigned with length 1
+    //     int mx=1;
+    //     for(int i=0;i<n;i++){
+    //         for(int prev=0;prev<i;prev++){
+    //             if(nums[prev]<nums[i])
+    //               dp[i]=max(dp[i],1+dp[prev]);
+    //         }
+    //         mx=max(mx,dp[i]);
+    //     }
+    //     return mx;
+    // }
 
 //BINARY SEARCH APPROACH
       int lengthOfLIS(vector<int>& nums){
