@@ -57,6 +57,7 @@ A collection of Leetcode problems solved by me, with solutions implemented in C+
 | [0300-longest-increasing-subsequence](https://github.com/Kranti-Pa/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Kranti-Pa/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Kranti-Pa/LeetCode/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/Kranti-Pa/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -75,4 +76,12 @@ A collection of Leetcode problems solved by me, with solutions implemented in C+
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Kranti-Pa/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Kranti-Pa/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Kranti-Pa/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
